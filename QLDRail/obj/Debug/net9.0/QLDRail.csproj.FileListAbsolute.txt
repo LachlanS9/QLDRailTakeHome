@@ -1,0 +1,15 @@
+C:\Users\IM GAY\OneDrive\Projects\QRAIL\QLDRail\obj\Debug\net9.0\QLDRail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IM GAY\OneDrive\Projects\QRAIL\QLDRail\obj\Debug\net9.0\QLDRail.AssemblyInfoInputs.cache
+C:\Users\IM GAY\OneDrive\Projects\QRAIL\QLDRail\obj\Debug\net9.0\QLDRail.AssemblyInfo.cs
+C:\Users\IM GAY\OneDrive\Projects\QRAIL\QLDRail\obj\Debug\net9.0\QLDRail.csproj.CoreCompileInputs.cache
+C:\Users\IM GAY\OneDrive\Projects\QRAIL\QLDRail\bin\Debug\net9.0\QLDRail.exe
+C:\Users\IM GAY\OneDrive\Projects\QRAIL\QLDRail\bin\Debug\net9.0\QLDRail.deps.json
+C:\Users\IM GAY\OneDrive\Projects\QRAIL\QLDRail\bin\Debug\net9.0\QLDRail.runtimeconfig.json
+C:\Users\IM GAY\OneDrive\Projects\QRAIL\QLDRail\bin\Debug\net9.0\QLDRail.dll
+C:\Users\IM GAY\OneDrive\Projects\QRAIL\QLDRail\bin\Debug\net9.0\QLDRail.pdb
+C:\Users\IM GAY\OneDrive\Projects\QRAIL\QLDRail\obj\Debug\net9.0\QLDRail.dll
+C:\Users\IM GAY\OneDrive\Projects\QRAIL\QLDRail\obj\Debug\net9.0\refint\QLDRail.dll
+C:\Users\IM GAY\OneDrive\Projects\QRAIL\QLDRail\obj\Debug\net9.0\QLDRail.pdb
+C:\Users\IM GAY\OneDrive\Projects\QRAIL\QLDRail\obj\Debug\net9.0\QLDRail.genruntimeconfig.cache
+C:\Users\IM GAY\OneDrive\Projects\QRAIL\QLDRail\obj\Debug\net9.0\ref\QLDRail.dll
+C:\Users\IM GAY\OneDrive\Projects\QRAIL\QLDRail\bin\Debug\net9.0\Upload\test.txt
